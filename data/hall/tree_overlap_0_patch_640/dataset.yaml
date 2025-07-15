@@ -1,0 +1,7 @@
+train: D:\pythonProject\efficientteacher\data\hall\tree_overlap_0_patch_640\images\train
+val: D:\pythonProject\efficientteacher\data\hall\tree_overlap_0_patch_640\images\val
+test: D:\pythonProject\efficientteacher\data\hall\tree_overlap_0_patch_640\images\test
+
+nc: 6
+
+names: ['deodar cedar', 'dawn redwood', 'china cedar','masson pine', 'golden larch', 'ginkgo']
